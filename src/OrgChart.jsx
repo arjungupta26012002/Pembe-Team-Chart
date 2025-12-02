@@ -1,4 +1,3 @@
-// TODO: Paste your fl OrgChart component here.
 import React, { useState } from 'react';
 import { X, User, Users, Palette, ShoppingBag, Share2, Youtube, MessageCircle, PenTool, Video, Monitor, Laptop, Network } from 'lucide-react';
 
